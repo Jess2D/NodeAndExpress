@@ -16,7 +16,10 @@
     "body-parser": "^1.16.0",
     "mongodb": "^2.2.22",
     "helmet": "^3.4.0",
-    "pug": "^0.1.0"
+    "pug": "^0.1.0",
+    "passport": "^0.3.2",
+    "express-session": "^1.15.0",
+    "mongo-db": "^1.0.2"
   },
   "engines": {
     "node": "4.4.3"
